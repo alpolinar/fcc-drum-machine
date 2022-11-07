@@ -2,6 +2,8 @@
 
 This project was bootstraped with [Vite](https://vitejs.dev/), using [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+Try the app [here](https://fcc-drum-machine-ap.netlify.app/).
+
 ## Available Scripts
 
 In the project directory, you can run:
